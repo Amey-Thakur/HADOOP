@@ -1,6 +1,6 @@
 # HADOOP
 
- ### Hadoop [Google Colaboratory](https://github.com/Amey-Thakur/HADOOP/blob/main/HADOOP.ipynb)
+ ### [Google Colaboratory](https://github.com/Amey-Thakur/HADOOP/blob/main/HADOOP.ipynb)
  
  ---
  
