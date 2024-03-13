@@ -1,7 +1,8 @@
 # HADOOP
- - [X] **CSDLO7032:** BDA & CSL704: CL-I [SEMESTER VII]
 
- ### >[Google Colaboratory](https://github.com/Amey-Thakur/HADOOP/blob/main/HADOOP.ipynb)
+ - [X] **[CSDLO7032: Big Data Analytics & CSL704: Computational Lab - I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) [SEMESTER VII]**
+
+ >**[Google Colaboratory](https://github.com/Amey-Thakur/HADOOP/blob/main/HADOOP.ipynb)**
  
  ---
  
@@ -13,4 +14,4 @@
 
 <p align="center"> <b> 👉🏻 Created to perform BDA Lab Experiments 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
