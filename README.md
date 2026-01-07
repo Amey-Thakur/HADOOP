@@ -1,14 +1,14 @@
 <div align="center">
 
   <a name="readme-top"></a>
-  # HADOOP - Matrix Multiplication
+  # HADOOP | Matrix Multiplication
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%203-orange)](https://github.com/Amey-Thakur/HADOOP)
-  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey-Thakur-blue)](https://github.com/Amey-Thakur)
+  [![Technology](https://img.shields.io/badge/Technology-Python%203%20%7C%20MapReduce-orange)](https://github.com/Amey-Thakur/HADOOP)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue)](https://github.com/Amey-Thakur)
 
-  An implementation of Matrix Multiplication using the MapReduce paradigm in Python, designed for parallel processing in distributed environments and Big Data Analytics.
+  An implementation of Matrix Multiplication using the MapReduce paradigm in Python, providing a foundations for distributed data processing and large-scale computational arithmetic.
 
   **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Google Colaboratory](Source%20Code/HADOOP.ipynb)**
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#mapreduce-process-flow) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--process-flow) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -54,7 +54,7 @@
 <a name="overview"></a>
 ## Overview
 
-**HADOOP** represents a pivotal milestone in the study of the **MapReduce Paradigm**. Developed during the academic study of Big Data Analytics, this project focuses on the practical application of parallel processing to execute large-scale matrix multiplication across distributed environments.
+**HADOOP | Matrix Multiplication** represents a pivotal milestone in the study of the **MapReduce Paradigm**. Developed during the academic study of Big Data Analytics, this project focuses on the practical application of parallel processing to execute large-scale matrix multiplication across distributed environments.
 
 The project utilizes Python 3 to simulate the partitioning and aggregation of data, leveraging a coordinate-based key-value system to ensure computational accuracy and efficiency in a distributed architecture.
 
@@ -114,8 +114,8 @@ HADOOP/
 ---
 
 <!-- RESULTS -->
-<a name="mapreduce-process-flow"></a>
-## MapReduce Process Flow
+<a name="system-architecture--process-flow"></a>
+## System Architecture & Process Flow
 
 <div align="center">
 
@@ -149,9 +149,14 @@ HADOOP/
 
 ### 1. Prerequisites
 - **Runtime**: Python 3.x installed on your workstation.
-- **Environment**: Basic understanding of Hadoop Streaming or local MapReduce simulators.
+- **Environment**: Any modern standards-compliant Unix-like environment for Python execution.
 
-### 2. Setup & Execution
+> [!WARNING]
+> **Local Execution**
+>
+> While the project is designed for Hadoop, it can be simulated locally using standard UNIX pipes. Ensure that `input.txt` and `cache.txt` are correctly configured in the `Source Code` directory before execution.
+
+### 2. Setup & Deployment
 1.  **Clone the Repository**:
     ```bash
     git clone https://github.com/Amey-Thakur/HADOOP.git
@@ -204,13 +209,13 @@ Copyright © 2021 Amey Thakur
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This project features the **HADOOP Matrix Multiplication**, an application developed during my explorations in Big Data Analytics. It highlights the use of distributed computing paradigms to build scalable, parallelized computational solutions.
+This project features the **HADOOP Matrix Multiplication**, an application developed during my early explorations in Big Data Analytics. It highlights the use of the MapReduce paradigm to build scalable, parallelized computational solutions.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Special thanks to the mentors and peers who supported this learning endeavor during the Big Data Analytics laboratory sessions at Terna Engineering College.
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
 
 ---
 
@@ -218,11 +223,11 @@ Special thanks to the mentors and peers who supported this learning endeavor dur
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#mapreduce-process-flow) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--process-flow) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  🔬 **[Big Data Analytics & Computational Lab - I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)** &nbsp;·&nbsp; 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**
+  🔬 **[Big Data Analytics Laboratory](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)** &nbsp; · &nbsp; 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**
 
   ---
 
