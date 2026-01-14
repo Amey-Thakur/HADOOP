@@ -221,7 +221,7 @@ This project features the **HADOOP Matrix Multiplication**, an application devel
 
 Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Big Data Analytics. Their expertise in distributed systems and parallel processing helped me develop a strong understanding of professional computational development methodologies.
 
-Special thanks to the **mentors and peers** whose encouragement and support contributed meaningfully to this learning endeavor.
+Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
