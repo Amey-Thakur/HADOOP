@@ -1,8 +1,8 @@
-# Technical Specification: HADOOP - Matrix Multiplication
+# Technical Specification: HADOOP | Matrix Multiplication
 
 ## Architectural Overview
 
-**HADOOP** is a distributed computing implementation of Matrix Multiplication leveraging the **MapReduce** paradigm. The system is designed to handle large-scale datasets by partitioning matrix elements into intermediate key-value pairs, which are then processed in parallel to compute the final product.
+**HADOOP | Matrix Multiplication** is a distributed computing implementation of Matrix Multiplication leveraging the **MapReduce** paradigm. The system is designed to handle large-scale datasets by partitioning matrix elements into intermediate key-value pairs, which are then processed in parallel to compute the final product.
 
 ### MapReduce Process Flow
 
