@@ -146,14 +146,31 @@ HADOOP/
 > While the project is designed for Hadoop, it can be simulated locally using standard UNIX pipes. Ensure that `input.txt` and `cache.txt` are correctly configured in the `Source Code` directory before execution.
 
 ### 2. Setup & Deployment
+
 1.  **Clone the Repository**:
+    Start by cloning the project to your local workstation:
     ```bash
     git clone https://github.com/Amey-Thakur/HADOOP.git
     cd HADOOP
     ```
-2.  **Launch (Local Simulation)**:
+
+2.  **Initialize Environment**:
+    Navigate to the `Source Code` directory where the computational logic resides:
     ```bash
-    cat "Source Code/input.txt" | python "Source Code/mapper.py" | sort -k1,1 | python "Source Code/reducer.py"
+    cd "Source Code"
+    ```
+
+3.  **Configure Matrix Dimensions**:
+    Verify that `cache.txt` is configured with the correct dimensions (e.g., `2,2` for a 2x2 matrix product):
+    ```bash
+    # Format: [A_Rows],[B_Cols]
+    echo "2,2" > cache.txt
+    ```
+
+4.  **Execute Distributed Logic**:
+    Simulate the MapReduce pipeline by piping the input through the Mapper and Reducer:
+    ```bash
+    cat input.txt | python mapper.py | sort -k1,1 | python reducer.py
     ```
 
 ---
