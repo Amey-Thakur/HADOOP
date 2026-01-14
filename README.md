@@ -32,19 +32,8 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  </tr>
-  </table>
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
+| :---: |
 
 </div>
 
@@ -89,7 +78,7 @@ The project utilizes Python 3 to simulate the partitioning and aggregation of da
 <a name="project-structure"></a>
 ## Project Structure
 
-```bash
+```python
 HADOOP/
 │
 ├── docs/                            # Technical Documentation
@@ -211,11 +200,11 @@ Copyright © 2021 Amey Thakur
 
 This project features the **HADOOP Matrix Multiplication**, an application developed during my early explorations in Big Data Analytics. It highlights the use of the MapReduce paradigm to build scalable, parallelized computational solutions.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
-### Acknowledgments
+Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Big Data Analytics. Their expertise in distributed systems and parallel processing helped me develop a strong understanding of professional computational development methodologies.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Special thanks to the mentors and peers whose encouragement and support contributed meaningfully to this learning endeavor.
 
 ---
 
@@ -227,7 +216,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🔬 **[Big Data Analytics Laboratory](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)** &nbsp; · &nbsp; 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**
+  🔬 **[Big Data Analytics Laboratory](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)** &nbsp; · &nbsp; 🐘 **[HADOOP](https://amey-thakur.github.io/HADOOP)**
 
   ---
 
