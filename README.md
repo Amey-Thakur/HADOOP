@@ -183,13 +183,13 @@ HADOOP/
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use this project as a reference for understanding distributed data representations, intermediate key mapping, and the practical implementation of the MapReduce paradigm.
+Use this project as reference material for understanding distributed data representations, intermediate key mapping, and the practical implementation of the MapReduce paradigm. The source code is available for study to facilitate self-paced learning and exploration of parallel computing patterns.
 
 **For Educators**  
-This project serves as a foundational case study for Big Data Analytics (Course Code: `CSDLO7032` and `CSL704`). Attribution is appreciated when utilizing content.
+This project may serve as a practical lab example or supplementary teaching resource for Big Data Analytics (`CSDLO7032` / `CSL704`). Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The technical specification and metadata provide insights into the implementation of distributed arithmetic architectures and the partitioning of datasets for high-scale computational tasks.
+The documentation and design approach may provide insights into academic project structuring and the implementation of distributed arithmetic architectures.
 
 ---
 
