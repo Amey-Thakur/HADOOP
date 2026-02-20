@@ -173,6 +173,13 @@ HADOOP/
     cat input.txt | python mapper.py | sort -k1,1 | python reducer.py
     ```
 
+> [!TIP]
+> **Distributed Matrix Multiplication | MapReduce Simulation**
+>
+> Experience the high-fidelity computational simulation of this 7th Semester Big Data Analytics project, featuring a multi-stage MapReduce pipeline (Map -> Shuffle -> Reduce) designed for scalable distributed matrix arithmetic and parallelized data processing.
+>
+> [**Launch Interactive Notebook**](https://amey-thakur.github.io/HADOOP/)
+
 ---
 
 <!-- =========================================================================================
