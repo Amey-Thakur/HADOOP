@@ -1,6 +1,5 @@
 <div align="center">
 
-  <a name="readme-top"></a>
   # HADOOP | Matrix Multiplication
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
@@ -46,6 +45,16 @@
 **HADOOP | Matrix Multiplication** represents a pivotal milestone in the study of the **MapReduce Paradigm**. Developed during the academic study of Big Data Analytics, this project focuses on the practical application of parallel processing to execute large-scale matrix multiplication across distributed environments.
 
 The project utilizes Python 3 to simulate the partitioning and aggregation of data, leveraging a coordinate-based key-value system to ensure computational accuracy and efficiency in a distributed architecture.
+
+### Resources
+
+| # | Resource | Description |
+|---|---|---|
+| 1 | [**Live Demo**](https://amey-thakur.github.io/HADOOP/) | The project as published |
+| 2 | [**Source Code**](Source%20Code/) | Mapper, reducer and sample input |
+| 3 | [**Notebook**](Source%20Code/HADOOP.ipynb) | The working notebook |
+| 4 | [**Technical Specification**](docs/SPECIFICATION.md) | Design and implementation notes |
+| 5 | [**Big Data Analytics**](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I) | Academic repository for the subject |
 
 > [!TIP]
 > **Hadoop Streaming Integration**
@@ -226,6 +235,8 @@ This project features the **HADOOP Matrix Multiplication**, an application devel
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
+### Acknowledgments
+
 Grateful acknowledgment to the faculty members of the **Department of Computer Engineering** at Terna Engineering College for their guidance and instruction in Big Data Analytics. Their expertise in distributed systems and parallel processing helped me develop a strong understanding of professional computational development methodologies.
 
 Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
@@ -234,7 +245,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
 <div align="center">
 
-  [↑ Back to Top](#readme-top)
+  [↑ Back to Top](#hadoop--matrix-multiplication)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#system-architecture--process-flow) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
