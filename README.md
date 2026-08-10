@@ -3,9 +3,9 @@
   # HADOOP | Matrix Multiplication
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Python%203%20%7C%20MapReduce-orange)](https://github.com/Amey-Thakur/HADOOP)
-  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue)](https://github.com/Amey-Thakur)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
+  [![Technology](https://img.shields.io/badge/Technology-Python%203%20%7C%20MapReduce-8250DF)](https://github.com/Amey-Thakur/HADOOP)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-0969DA)](https://github.com/Amey-Thakur)
 
   An implementation of Matrix Multiplication using the MapReduce paradigm in Python, providing a foundation for distributed data processing and large-scale computational arithmetic.
 
@@ -31,7 +31,7 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) |
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) |
 | :---: |
 
 </div>
