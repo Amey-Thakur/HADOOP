@@ -20,8 +20,10 @@
             }
         }
     ],
+    "dateCreated": "2021-10-06",
     "dateReleased": "2021-10-06",
     "codeRepository": "https://github.com/Amey-Thakur/HADOOP",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
     "developmentStatus": "complete",
     "applicationCategory": "Big Data Analytics / Distributed Computing",
     "keywords": [
@@ -30,6 +32,32 @@
         "Python",
         "Matrix Multiplication",
         "Big Data Analytics",
-        "Distributed Systems"
-    ]
+        "Distributed Systems",
+        "Big Data",
+        "Computer Engineering",
+        "Computer Science",
+        "Distributed Computing",
+        "Engineering",
+        "Hadoop Streaming",
+        "Mapper",
+        "Parallel Processing",
+        "Python MapReduce",
+        "Reducer",
+        "University Of Mumbai",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "Semester VII",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ],
+    "url": "https://amey-thakur.github.io/HADOOP/"
 }

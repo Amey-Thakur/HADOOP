@@ -1,0 +1,30 @@
+# HADOOP | Matrix Multiplication
+
+> HADOOP - Matrix Multiplication
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Licence: CC BY 4.0, attribution required
+Repository created: 6 October 2021
+
+## What is in this repository
+
+- Source Code, 5 files
+- docs, 1 file
+- index.html
+
+## Subject terms
+
+big-data, big-data-analytics, computer-engineering, computer-science,
+distributed-computing, engineering, hadoop, hadoop-streaming, mapper,
+mapreduce, matrix-multiplication, parallel-processing, python-mapreduce,
+reducer, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/HADOOP
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/HADOOP/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
